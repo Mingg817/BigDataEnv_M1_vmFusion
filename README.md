@@ -4,7 +4,7 @@
 
 Hadoop+Hive，启动即用
 
-参考视频 [黑马程序员大数据Hadoop入门视频教程，适合零基础自学的大数据Hadoop教程] (https://www.bilibili.com/video/BV1CU4y1N7Sh)]，由于原视频使用的是x86，修改了的地方还是挺多的
+参考视频 [黑马程序员大数据Hadoop入门视频教程，适合零基础自学的大数据Hadoop教程](https://www.bilibili.com/video/BV1CU4y1N7Sh)，由于原视频使用的是x86，修改了的地方还是挺多的
 
 使用VMFusion搭建好的模拟集群，存在三个虚拟机
 
